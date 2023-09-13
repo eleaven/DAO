@@ -5,6 +5,9 @@
 AADAO sunsets on November 12, 2023.
 
 Proposal to renew tentatively scheduled to go on-chain December 9, 2023.
+
+### Links
+[Cosmos Hub Forum Discussion on funding AADAO (formerly Orbital DAO)](https://forum.cosmos.network/t/funding-the-cosmos-hub-grant-program/8965/14)
 ## Operations
 ### [Directory](https://github.com/eleaven/TAO/blob/main/AADAO/Directory)
 ### A. Reviewer Committee
