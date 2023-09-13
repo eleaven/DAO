@@ -2,8 +2,9 @@
 ## Background
 ### [Cosmos Hub Proposal #95](https://github.com/eleaven/TAO/blob/main/AADAO/Proposal%20%2395)
 ### [Renewal](https://github.com/eleaven/TAO/blob/main/AADAO/Renewal)
-AADAO sunsets on November 12, 2023
-Proposal to renew tentatively scheduled to go on-chain December 9, 2023
+AADAO sunsets on November 12, 2023.
+
+Proposal to renew tentatively scheduled to go on-chain December 9, 2023.
 ## Operations
 ### [Directory](https://github.com/eleaven/TAO/blob/main/AADAO/Directory)
 ### A. Reviewer Committee
