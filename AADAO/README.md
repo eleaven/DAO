@@ -10,7 +10,7 @@ Proposal to renew tentatively scheduled to go on-chain December 9, 2023.
 [Cosmos Hub Forum Discussion on funding AADAO (formerly Orbital DAO)](https://forum.cosmos.network/t/funding-the-cosmos-hub-grant-program/8965/14)
 
 ## Funding
-Funding request: 588,000 ATOM
+Funding amount: *588,000 ATOM*
 > Funding the most promising initiatives can unlock the spontaneity and collective intelligence of the Hub community while delivering an intentional and strategic roadmap for the Hub.
 
 > Kick-starting open source software initiatives will make the Cosmos Hub self-sustainable in the long term and create value for ATOM holders.
@@ -25,7 +25,6 @@ Note: 322,500 ATOM represent 9 months of spending at the rate of the last 6 mont
 
 
 ## Budget
-Budget
 
 Budgeted Area	Total in USD
 One-time legal structure set up fee	$52,500
