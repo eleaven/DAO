@@ -1,6 +1,12 @@
 # AADAO Oversight Obectives
 ## Background
 ### [Cosmos Hub Proposal #95](https://github.com/eleaven/TAO/blob/main/AADAO/Proposal%20%2395)
+
+A Grant Program for the Cosmos Hub: Funding the ATOM Accelerator DAO
+
+Voting Time 2023-01-27 18:44:52 - 2023-02-10 18:44:52
+
+[#95 Mintscan Link](https://dev.mintscan.io/cosmos/proposals/95)
 ### [Renewal](https://github.com/eleaven/TAO/blob/main/AADAO/Renewal)
 AADAO sunsets on November 12, 2023.
 
