@@ -79,4 +79,7 @@ Formerly PwC auditor, over 10 years in audit, risk management and process improv
 
 **Operational wallet**: cosmos14scyumpc9gw2p2py6ms06n4j9ejv650d0jx76v
 ### Transparency Reports
+[Month One Transparency Report](https://medium.com/@atomaccelerator/atom-accelerator-dao-transparency-report-month-1-d1e83a3b63a0)
+[Month Two Transparency Report](https://medium.com/@atomaccelerator/transparency-report-month-2-57e0ef941300)
+[Month Three Transparency Report](https://medium.com/@atomaccelerator/transparency-report-3-c7d815fecb8b)
 ### [Grant Evaluation Criteria](https://github.com/eleaven/TAO/blob/main/AADAO/Grant%20Evaluation%20Criteria) 
