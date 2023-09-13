@@ -10,8 +10,8 @@ Proposal to renew tentatively scheduled to go on-chain December 9, 2023.
 [Cosmos Hub Forum Discussion on funding AADAO (formerly Orbital DAO)](https://forum.cosmos.network/t/funding-the-cosmos-hub-grant-program/8965/14)
 
 ## Funding
-Funding request: Now 588,000 ATOM
-Funding the most promising initiatives can unlock the spontaneity and collective intelligence of the Hub community while delivering an intentional and strategic roadmap for the Hub.
+Funding request: 588,000 ATOM
+> Funding the most promising initiatives can unlock the spontaneity and collective intelligence of the Hub community while delivering an intentional and strategic roadmap for the Hub.
 
 Kick-starting open source software initiatives will make the Cosmos Hub self-sustainable in the long term and create value for ATOM holders.
 
@@ -28,7 +28,7 @@ For reference, the Osmosis Grants Program (OGP) 24 was initially funded with 1.5
 ## Budget
 Budget
 
-Budgeted Area	Total in USD
+> Budgeted Area	Total in USD
 One-time legal structure set up fee	$52,500
 Headcount for Reviewer Committee which includes:	$407,250
 * Two (2) full-time Program Managers	
