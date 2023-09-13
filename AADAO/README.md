@@ -5,7 +5,7 @@
 AADAO sunsets on November 12, 2023
 Proposal to renew tentatively scheduled to go on-chain December 9, 2023
 ## Operations
-### Directory
+### [Directory](https://github.com/eleaven/TAO/blob/main/AADAO/Directory)
 ### A. Reviewer Committee
 
 A team of 7 will be on the Reviewer Committee in charge of allocating grants. 
@@ -66,6 +66,9 @@ Senior Oversight
 *Jason Choi*
 [Jason Choi Twitter](https://twitter.com/mrjasonchoi)
 Founder of angel investing collective Tangent. Hosts the popular Blockcrunch podcast. Formerly General Partner at Spartan Capital.
+
+Junior Oversight
+*Joni Zulekhu*
 
 Auditor/Controller
 *Patricia Mizuki*
