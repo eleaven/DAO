@@ -1,4 +1,10 @@
-# AADAO Oversight 
+# AADAO Oversight Obectives
 ## Background
-## Transparency Reports
+### Cosmos Hub Proposal #95
+### Renewal
+
 ## Operations
+### Directory
+### Wallets
+### Transparency Reports
+### Grant Evaluation Criteria 
