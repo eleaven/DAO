@@ -130,3 +130,7 @@ Formerly PwC auditor, over 10 years in audit, risk management and process improv
 [Month Three Transparency Report](https://medium.com/@atomaccelerator/transparency-report-3-c7d815fecb8b)
 
 ### [Grant Evaluation Criteria](https://github.com/eleaven/TAO/blob/main/AADAO/Grant%20Evaluation%20Criteria) 
+
+## Potential Conflicts of Interest
+
+## Controversial Funding Decisions
