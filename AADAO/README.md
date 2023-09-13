@@ -79,4 +79,4 @@ Formerly PwC auditor, over 10 years in audit, risk management and process improv
 
 **Operational wallet**: cosmos14scyumpc9gw2p2py6ms06n4j9ejv650d0jx76v
 ### Transparency Reports
-### Grant Evaluation Criteria 
+### [Grant Evaluation Criteria](https://github.com/eleaven/TAO/blob/main/AADAO/Grant%20Evaluation%20Criteria) 
