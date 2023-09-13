@@ -8,6 +8,47 @@ Proposal to renew tentatively scheduled to go on-chain December 9, 2023.
 
 ### Links
 [Cosmos Hub Forum Discussion on funding AADAO (formerly Orbital DAO)](https://forum.cosmos.network/t/funding-the-cosmos-hub-grant-program/8965/14)
+
+## Funding
+Funding request: Now 588,000 ATOM
+Funding the most promising initiatives can unlock the spontaneity and collective intelligence of the Hub community while delivering an intentional and strategic roadmap for the Hub.
+
+Kick-starting open source software initiatives will make the Cosmos Hub self-sustainable in the long term and create value for ATOM holders.
+
+The CHGP program will provide Open Grants covering a wide array of initiatives: content creation, tooling, infra, analytics, governance, research, etc. The program grant-making priority will be on high-quality projects and teams that can create value for the ATOM community.
+
+Given the current size of the community pool (1.7M ATOM 8 as of 01/12/2023), we suggest starting with a budget of 588,000 ATOM (approx. $5.88M at $10 ATOM last month approximate average price). 588,000 ATOM represents roughly 2 months of the replenishment rate into the Community Pool (from Prop 88 tax increase).
+
+After removing the 588,000 requested ATOM to fund the GHGP, the Community Pool will hold a balance of approximately 1,112,000 ATOM, with an additional 343,000 ATOM from new inflation tax being added every month.
+At the end of the 9 month period and assuming the same spending rate as the previous 6 months, the Community Pool should hold 1.1 M + (343,000 x 9 mo.) - 322,500 = 3.86 M ATOM or $38.6M at average ATOM price for last month.
+Note: 322,500 ATOM represent 9 months of spending at the rate of the last 6 months of spending.
+
+For reference, the Osmosis Grants Program (OGP) 24 was initially funded with 1.5 M OSMO, worth approximately 10.5 M $ at the time. The Cosmos Hub, with an order of magnitude (8X) larger ecosystem than Osmosis, is requesting approximately half less for the pilot grant program.
+
+## Budget
+Budget
+
+Budgeted Area	Total in USD
+One-time legal structure set up fee	$52,500
+Headcount for Reviewer Committee which includes:	$407,250
+* Two (2) full-time Program Managers	
+* One Part Time Technical Lead	
+* Four (4) part-time Community Review Panel Participants	
+* One part-time Program Coordinator	
+Headcount for Oversight Committee which includes:	$140,000
+* Three (3) part-time members	
+Due Diligence Consultants	$30,000
+Operational Expenses which include:	$80,000
+* Website: Creation, hosting, maintenance, basic SEO	
+* Ops: software licenses; human and/or virtual assistant for additional support	
+* Outreach: marketing, promotion and education	
+Grand Total	$709,750
+The estimated all-in total is 709,750 USD (or approx. 71,000 ATOM at time of writing @ $10 ATOM). This represents ~12% of total budget, which leaves 88% to grant recipients.
+
+If there is an unspent amount, it will be either kept in the CHGP program multisig for the second mandate or returned to the community pool if the CHGP program is discontinued.
+
+Legal setup is a one-time activity and is budgeted to include structure set-up, filing fees, registered office fees, mandatory secretary/supervisor and director fee.
+
 ## Operations
 ### [Directory](https://github.com/eleaven/TAO/blob/main/AADAO/Directory)
 ### A. Reviewer Committee
