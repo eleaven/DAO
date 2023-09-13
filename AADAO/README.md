@@ -68,7 +68,7 @@ Senior Oversight
 Founder of angel investing collective Tangent. Hosts the popular Blockcrunch podcast. Formerly General Partner at Spartan Capital.
 
 Junior Oversight
-*Joni Zulekhu*
+*Joni Zhulekhu*
 
 Auditor/Controller
 *Patricia Mizuki*
